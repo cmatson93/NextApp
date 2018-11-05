@@ -1,5 +1,6 @@
 import Layout from '../components/MyLayout.js'
 import fetch from 'isomorphic-unfetch'
+import Markdown from 'react-markdown'
 
 const Post = (props) => (
     <Layout>
